@@ -1,7 +1,7 @@
 version: '3'
 services:
   myapp:
-    image: swaminee/resume
+    image: 58364715/swaminee-resume
     ports:
       - "8042:8000"
     command: "npm start"
